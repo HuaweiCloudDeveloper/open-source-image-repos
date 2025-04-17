@@ -41,4 +41,4 @@ This planning aims to provide developers with open source mirror services in mul
 
 ## How to Contribute
 - Fork this repository and submit a merge request
-- Update README.md and add your open source mirror information to the corresponding table.
+- Update README.md and add your open source mirror information to the corresponding table
