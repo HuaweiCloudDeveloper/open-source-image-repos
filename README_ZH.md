@@ -37,6 +37,8 @@
 | 14 | hadoop | 数据处理 | 3.3.6 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/6bd70e0a-4bf5-4343-b483-500b10cbd1fb#productid=OFFI1123074339229200384) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/8c0929fa-a100-4792-a671-24ce36dd51d4) | [详情](https://github.com/HuaweiCloudDeveloper/hadoop-image) |
 | 15 | hive | 数据仓库 | 3.1.3 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/509bd75a-40e2-406e-85f3-74575cb22699#productid=OFFI1123907975478964224) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/356a59ea-442e-469f-8264-3a1227d723f9) | [详情](https://github.com/HuaweiCloudDeveloper/hive-image) |
 | 16 | spark | 分布式计算 | 3.4.4 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1126357985762062336) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/39049b38-adb4-4250-a432-5b7134f5b531) | [详情](https://github.com/HuaweiCloudDeveloper/spark-image) |
+| 17 | Iceberg | 数据管理 | 1.6 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/34354512-a433-401b-aa67-5ac9df1b6b62#productid=OFFI1148937746921562112) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/08d21cee-6640-4523-b7f8-7aecf8f0bf51) | [详情](https://github.com/HuaweiCloudDeveloper/iceberg-image) |
+| 18 | SeaTunnel | 数据集成 | 2.3.10 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938068398186496) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/de158faf-93d0-40ea-99bf-596592d43f7f) | [详情](https://github.com/HuaweiCloudDeveloper/seaTunnel-image) |
 
 
 
@@ -49,6 +51,9 @@
 | 4 | Cassandra | 分布式数据库 | 4.1.3 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/9f55f9d6-83ed-4fa8-8ae5-4d02028ab162#productid=OFFI1121281976600530944) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/dbb0dee5-3135-424b-a5dd-f3bf7c4b1b95) | [详情](https://github.com/HuaweiCloudDeveloper/cassandra-image) |
 | 5 | Memcached | 内存缓存 | 1.6.38 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/cc343a9d-caf5-4b8e-acf5-b644f6ddffe9#productid=OFFI1121975571984920576) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/1dac4bf3-17b0-4295-9aad-6d4e823cfe54) | [详情](https://github.com/HuaweiCloudDeveloper/memcached-image) |
 | 6 | hbase | 非关系型数据库 | 2.4.18 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/ee3fcfb7-1d48-4217-bf29-5de5e01bec31#productid=OFFI1123074911957217280) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/8c0929fa-a100-4792-a671-24ce36dd51d4) | [详情](https://github.com/HuaweiCloudDeveloper/hbase-image) |
+| 7 | CloudBeaver | 数据库管理 | 25.0.4 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/da4c724d-445e-4474-aa80-cbf752942f0b) | [详情](https://github.com/HuaweiCloudDeveloper/cloudBeaver-image) |
+| 8 | InfluxDB | 时间序列数据库管理 | 2.7.1 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/a9cfecb8-a2db-45d3-b41a-f405ad18b065#productid=OFFI1151328119301599232) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/05dd0dd4-1992-4dd9-ad9c-95126f1a649b) | [详情](https://github.com/HuaweiCloudDeveloper/influxDB-image) |
+| 9 | Dgraph | 图数据库 | 24.1.3 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/bdfcaa10-f7dc-4727-8b80-e72531a74308#productid=OFFI1146358445895069696)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/9bf64eee-7a67-4c0a-8364-10fbaec2f165) | [详情](https://github.com/HuaweiCloudDeveloper/dgraph-image) |
 
 
 ### 云原生
@@ -61,6 +66,10 @@
 | 5 | NATS | 消息队列 | 2.10.20 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/f458f8c6-818f-4b3e-8e10-992f49e09f1e#productid=OFFI1141938411671859200)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/8665eb08-8c32-46fa-94ae-eaf4d3c1533c) | [详情](https://github.com/HuaweiCloudDeveloper/nats-image) |
 | 6 | APISIX | api网关 | 3.12.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/ab5930b5-64ce-4bfd-88bc-325f38b18fcc#productid=OFFI1136589009567784960)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/bfab1544-a53b-4b72-8616-577993465729) | [详情](https://github.com/HuaweiCloudDeveloper/apisix-image) |
 | 7 | shenyu | api网关 | 2.5.1 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/564d306e-87f0-4ba3-b4b4-5dd57a915468#productid=OFFI1141938188136427520)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/784e14bb-7e44-45b1-a0ad-a756a82a685e) | [详情](https://github.com/HuaweiCloudDeveloper/shenyu-image) |
+| 8 | etcd | 分布式键值存储 | 3.6.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com//contents/d82f9a7b-cf43-40fb-97f7-229e5f3c3675#productid=OFFI1144193062472085504)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/c21740ee-61b0-43d1-8ff4-0936547c1137) | [详情](https://github.com/HuaweiCloudDeveloper/etcd-image) |
+| 9 | Gogs | 代码托管 | 0.13.3 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/5a704ba0-f51c-42cc-9947-71f2f50072bd#productid=OFFI1148937988424810496)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/85eeedf0-4aac-4d62-9205-da4f6357087a) | [详情](https://github.com/HuaweiCloudDeveloper/gogs-image) |
+| 10 | Consul | 服务网络解决方案 | 1.17.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/78e3af1d-71c5-46eb-98ed-6e18e28be253#productid=OFFI1151329556293267456)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/b0234187-442f-4315-9280-a89cb53ec6e6) | [详情](https://github.com/HuaweiCloudDeveloper/consul-image) |
+
 
 
 
