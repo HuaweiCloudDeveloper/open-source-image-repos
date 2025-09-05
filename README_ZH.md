@@ -21,7 +21,7 @@
 
 | 序号 | 开源项目 | 工具类型 | 版本 | 适配项 | 云商店地址 | 镜像详情 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flink | 流批一体计算引擎 | 1.13.0<br>1.17.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) | [详情](https://github.com/HuaweiCloudDeveloper/flink-image) |
+| 1 | Flink | 流批一体计算引擎 | 1.13.0<br>1.17.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) | [详情](https://github.com/HuaweiCloudDeveloper/flink-image) |
 | 2 | DolphinScheduler | 任务调度 | 3.2.2 | GaussDB | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/31496fe8-a3c9-402a-863f-4b786940a410#productid=OFFI1121281599440400384) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) | [详情](https://github.com/HuaweiCloudDeveloper/dolphinscheduler-image) |
 | 3 | kafka | 消息中间件 | 3.8 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684662074359808)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/3b8c28c7-295e-493d-82ed-6c0e94a3fc8c) | [详情](https://github.com/HuaweiCloudDeveloper/kafka-image) |
 | 4 | Kestra | 工作流编排 | 0.22.1 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/f339961a-eb5a-4c3b-87f1-306496e6368c#productid=OFFI1121282090660507648)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/d9d761d4-f02c-4bfa-9d8d-ea347bd001d8) | [详情](https://github.com/HuaweiCloudDeveloper/kestra-image) |
