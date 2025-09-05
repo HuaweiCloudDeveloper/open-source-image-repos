@@ -38,7 +38,7 @@
 | 15 | hive | 数据仓库 | 3.1.3 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/509bd75a-40e2-406e-85f3-74575cb22699#productid=OFFI1123907975478964224) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/356a59ea-442e-469f-8264-3a1227d723f9) | [详情](https://github.com/HuaweiCloudDeveloper/hive-image) |
 | 16 | spark | 分布式计算 | 3.4.4 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1126357985762062336) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/39049b38-adb4-4250-a432-5b7134f5b531) | [详情](https://github.com/HuaweiCloudDeveloper/spark-image) |
 | 17 | Iceberg | 数据管理 | 1.6 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/34354512-a433-401b-aa67-5ac9df1b6b62#productid=OFFI1148937746921562112) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/08d21cee-6640-4523-b7f8-7aecf8f0bf51) | [详情](https://github.com/HuaweiCloudDeveloper/iceberg-image) |
-| 18 | SeaTunnel | 数据集成 | 2.3.10 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938068398186496) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/de158faf-93d0-40ea-99bf-596592d43f7f) | [详情](https://github.com/HuaweiCloudDeveloper/seaTunnel-image) |
+| 18 | SeaTunnel | 数据集成 | 2.3.10 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938068398186496) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/de158faf-93d0-40ea-99bf-596592d43f7f) | [详情](https://github.com/HuaweiCloudDeveloper/seaTunnel-image) |
 
 
 
