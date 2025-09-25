@@ -44,6 +44,7 @@
 | 21 | TDengine | 数据库 | 3.3.3.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/19146527-8825-4046-ae72-d6856cf22d10#productid=OFFI1166672139135340544)  | [详情](https://github.com/HuaweiCloudDeveloper/tdengine-image) |
 
 
+
 ### 数据库
 | 序号 | 开源项目 | 工具类型 | 版本 | 适配项 | 云商店地址 | 镜像详情 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -105,6 +106,18 @@
 | 15 | Faiss |向量相似性搜索与聚类  | 1.11.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/c989ab37-9b79-40d6-9489-1de3ac8d8fe8#productid=OFFI1146359658505064448) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/e16f63f8-916c-4184-8c2f-d1eed32bb970) | [详情](https://github.com/HuaweiCloudDeveloper/Faiss-image) |
 | 16 | MLMD |机器学习  | 1.14.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/10e68a87-10f0-4245-a3f4-77eea4e91916#productid=OFFI1148940556404793344) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/0363e40d-0148-47a8-9905-cafad667dd1a) | [详情](https://github.com/HuaweiCloudDeveloper/MLMD-image) |
 | 17 | Katib |机器学习  | 0.17.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/3a074167-a9ef-4a8f-a2f9-9de9a7aa255c#productid=OFFI1154254888928055296) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/4cad657d-46c2-4433-90f7-7faeefaa363a) | [详情](https://github.com/HuaweiCloudDeveloper/Katib-image) |
+| 18 | OpenManus |AI-工具  | 0.3.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/fc5042a4-e724-43c8-842a-fa29ff8241e6#productid=OFFI1127509303699283968) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/8fa6336f-1344-4f73-85fc-60c6460ce8f2) | [详情](https://github.com/HuaweiCloudDeveloper/openManus-image) |
+| 19 | Langflow | Agent和工作流开发可视化框架 | 1.4.1 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/1c35798c-5c39-4e02-b290-46dd70a9357f#productid=OFFI1136490488264220672) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/61cc50c0-047e-4e56-a116-6a86cdf24553) | [详情](https://github.com/HuaweiCloudDeveloper/Langflow-image) |
+| 20 | langgraph | Agent开发框架 | 2.1.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/e818b8df-aa62-4e97-bfa2-3c8080ce8598#productid=OFFI1146358656759508992) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/738c11b6-a045-427b-a0d5-5a3be4fabe66) | [详情](https://github.com/HuaweiCloudDeveloper/langgraph-image) |
+| 21 | OpenHands | Agent | 0.48.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/ad48628c-a885-47cb-ba59-5573c5e3d3ef#productid=OFFI1151328824781365248) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/8f47e2d2-653f-4dd6-b32e-07cee6f04429) | [详情](https://github.com/HuaweiCloudDeveloper/OpenHands-image) |
+| 22 | openmemory | Agent记忆工具 | 0.1.11 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/459821ca-c83a-45f5-bf29-d50abef0e539#productid=OFFI1164137296082341888) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/8f47e2d2-653f-4dd6-b32e-07cee6f04429) | [详情](https://github.com/HuaweiCloudDeveloper/openmemory-image) |
+| 23 | llama.cpp | 模型推理框架 | b5834 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/afe5ad26-ef91-47ab-ba58-735c167af8b0#productid=OFFI1151329778610204672) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/6fa48dca-33e9-4922-9090-ea87415b4354) | [详情](https://github.com/HuaweiCloudDeveloper/llama.cpp-image) |
+| 24 | Dify | 应用开发平台 | 1.3.1 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/7622552e-ac3a-4302-b141-ce4052274f91#productid=OFFI1133641571850694656) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/9be11bb4-fea0-417c-a246-498605e0c887) | [详情](https://github.com/HuaweiCloudDeveloper/dify-image) |
+| 25 | VLLM | 大语言模型推理优化 | 0.8.3 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/f99f5fc8-4cf1-4dc9-92a7-8ffc4dd2805e#productid=OFFI1135139479874867200) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/c4155469-8f2c-42d6-8d0c-ec927a56161f) | [详情](https://github.com/HuaweiCloudDeveloper/vllm-image) |
+| 26 | ollama | 模型推理框架 | 0.9.2 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/54eeb4b5-2ed7-4023-b6bf-ef2b98b83341#productid=OFFI1148937502267293696) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/e81fb144-b2c8-4f64-802a-8183548f0752) | [详情](https://github.com/HuaweiCloudDeveloper/ollama-image) |
+| 27 | LocalAI | 模型推理框架 | 0.9.2 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937396495335424) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e) | [详情](https://github.com/HuaweiCloudDeveloper/localai-image) |
+| 28 | Open WebUI | AI平台 | 0.9.2 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/8ae48a35-d88c-48d9-9ca8-6e8f5e1ca2b2#productid=OFFI1151329161185636352) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/7e175eb2-0ff6-4edc-a61a-9d8da860c293) | [详情](https://github.com/HuaweiCloudDeveloper/openwebui-image) |
+
 
 
 
