@@ -114,6 +114,12 @@ This planning aims to provide developers with open source mirror services in mul
 | 27 | LocalAI |  Model Inference Framework | 3.0.0 | ECS | [China Site](https://marketplace.huaweicloud.com/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937396495335424) <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e) | [Details](https://github.com/HuaweiCloudDeveloper/localai-image) |
 | 28 | Open WebUI | AI Platform | 0.6.15 | ECS | [China Site](https://marketplace.huaweicloud.com/contents/8ae48a35-d88c-48d9-9ca8-6e8f5e1ca2b2#productid=OFFI1151329161185636352) <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/7e175eb2-0ff6-4edc-a61a-9d8da860c293) | [Details](https://github.com/HuaweiCloudDeveloper/openwebui-image) |
 
+### Scientific Computing
+| Serial Number | Open Source Project | Tool Type | Version | Adaptation Items | Cloud Marketplace Address | Mirror Details |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Yambo | Exited-state Computation | 5.3.0<br>5.3.0+QE  | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/65afebbd-cb0f-47e8-978e-5a90c9747edf#productid=OFFI1169451101213282304)|[Details](https://github.com/HuaweiCloudDeveloper/yambo-image)|
+| 2 | TRF | Gene Sequence Analysis | 4.09.1  | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/3e66a64b-fb34-4232-8176-9e0cfe66d972#productid=OFFI1172422940967157760)|[Details](https://github.com/HuaweiCloudDeveloper/trf-image)|
+| 3 | SMC++ | Population Size Estimation | commit: 6779fae  | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/fff602db-d94f-4ed7-8d0e-7b87189ddc04#productid=OFFI1174525460740751360)|[Details](https://github.com/HuaweiCloudDeveloper/smcpp-image)|
 
 
 ## Getting Help
