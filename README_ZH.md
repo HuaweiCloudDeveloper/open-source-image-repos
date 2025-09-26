@@ -118,9 +118,12 @@
 | 27 | LocalAI | 模型推理框架 | 3.0.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937396495335424) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e) | [详情](https://github.com/HuaweiCloudDeveloper/localai-image) |
 | 28 | Open WebUI | AI平台 | 0.6.15 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/8ae48a35-d88c-48d9-9ca8-6e8f5e1ca2b2#productid=OFFI1151329161185636352) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/7e175eb2-0ff6-4edc-a61a-9d8da860c293) | [详情](https://github.com/HuaweiCloudDeveloper/openwebui-image) |
 
-
-
-
+### 科学计算
+| 序号 | 开源项目 | 工具类型 | 版本 | 适配项 | 云商店地址 | 镜像详情 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Yambo | 激发态计算 | 5.3.0<br>5.3.0+QE  | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/65afebbd-cb0f-47e8-978e-5a90c9747edf#productid=OFFI1169451101213282304)|[详情](https://github.com/HuaweiCloudDeveloper/yambo-image)|
+| 2 | TRF | 基因序列分析 | 4.09.1  | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/3e66a64b-fb34-4232-8176-9e0cfe66d972#productid=OFFI1172422940967157760)|[详情](https://github.com/HuaweiCloudDeveloper/trf-image)|
+| 3 | SMC++ | 种群大小估计 | commit:6779fae  | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/fff602db-d94f-4ed7-8d0e-7b87189ddc04#productid=OFFI1174525460740751360)|[详情](https://github.com/HuaweiCloudDeveloper/smcpp-image)|
 ## 获取帮助
 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/open-source-image-repos/issues) 或 [华为云开源协作创新平台](https://developer.huaweicloud.com/programs/opensource/contributing/) 与我们取得联系。
 
