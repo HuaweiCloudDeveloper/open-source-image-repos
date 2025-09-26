@@ -66,6 +66,7 @@
 | 16 | neo4j | 图数据库 | 2025.06.0 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/abfc7b24-7019-4bc3-a73c-4b5d137605d8#productid=OFFI1159055295317577728)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/d7d48b74-b8b3-4d31-aeda-22087e6724da) | [详情](https://github.com/HuaweiCloudDeveloper/neo4j-image) |
 | 17 | openGauss | 数据库 | 7.0.0-rc1 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/9237bc7f-d361-4953-835d-0ecb9dfd7da6#productid=OFFI1161477894538182656)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/0c9e040c-c78c-4f9f-9dae-5f0ae5650a1c) | [详情](https://github.com/HuaweiCloudDeveloper/openGauss-image) |
 | 18 | PostgreSQL | 数据库 | 14.18 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/42d1df14-d3e7-435d-9b20-281335a57634#productid=OFFI1164386440709509120)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/5071bca5-4d60-4ce9-aa07-1af6574955cc) | [详情](https://github.com/HuaweiCloudDeveloper/postgreSQL-image) |
+| 19 | CloudbBeaver | 数据库管理 | 25.0.4 | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/contents/c5263ed8-b931-4e9c-8b5f-d7e6b0fb14eb#productid=OFFI1132210185338470400)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/da4c724d-445e-4474-aa80-cbf752942f0b) | [详情](https://github.com/HuaweiCloudDeveloper/cloudbeaver-image) |
 
 
 ### 云原生
